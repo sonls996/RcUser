@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Lê Hồng Sơn",
+        "tel": "0966725018",
+        "Permision":1
+    },
+    {
+        "id":2,
+        "name":"Vũ Mạnh Hùng ",
+        "tel": "0966725028",
+        "Permision":2
+    },
+    {
+        "id":3,
+        "name":"Trần Tiến Quân",
+        "tel": "0966725038",
+        "Permision":3
+    },
+    {
+        "id":4,
+        "name":"Nguyễn Tiến Mạnh",
+        "tel": "0966725048",
+        "Permision":1
+    },
+    {
+        "id":5,
+        "name":" Nguyễn Sơn Lâm",
+        "tel": "0966725058",
+        "Permision":1
+    }
+]
